@@ -10,13 +10,13 @@
 
 
 ### Connect with me
-[<img align="left" alt="ivan.cantero38 | Instragram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intragram.svg">][instragram]
+[<img align="left" alt="ivan.cantero38 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intagram.svg">][instagram]
 
 [<img align="left" alt="CanteroMH | Twiter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twiter.svg">][twiter]
 
 <br /> 
 
 
-[instragram]: https://www.instagram.com/ivancantero.38/?hl=es
+[instagram]: https://www.instagram.com/ivancantero.38/?hl=es
 [twiter]:https://twitter.com/CanteroMH
 [webdevplaylist]:https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=765s
