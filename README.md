@@ -1,6 +1,6 @@
-### Hello there, my name is Iván
+## Hello there, my name is Iván
 
-## I'm a student ending my computer engineering degree learning as much as I can
+### I'm a student ending my computer engineering degree learning as much as I can
 
 
 ### Programming Lenguages and Tools:
@@ -18,8 +18,8 @@
 
 
 ### Connect with me
-[<img align="left" alt="ivancantero.38 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="CanteroMH | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="ivancantero.38 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br /> 
 
