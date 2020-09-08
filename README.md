@@ -23,6 +23,9 @@
 
 <br /> 
 
+### Spotify Playing 🎧
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/g2rmyjr6eqb7dsu94ga1ghp30)
+
 
 [instagram]: https://www.instagram.com/ivancantero.38/?hl=es
 [twitter]:https://twitter.com/CanteroMH
