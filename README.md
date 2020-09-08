@@ -12,11 +12,11 @@
 ### Connect with me
 [<img align="left" alt="ivan.cantero38 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/intagram.svg">][instagram]
 
-[<img align="left" alt="CanteroMH | Twiter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twiter.svg">][twiter]
+[<img align="left" alt="CanteroMH | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg">][twitter]
 
 <br /> 
 
 
 [instagram]: https://www.instagram.com/ivancantero.38/?hl=es
-[twiter]:https://twitter.com/CanteroMH
+[twitter]:https://twitter.com/CanteroMH
 [webdevplaylist]:https://www.youtube.com/watch?v=ECuqb5Tv9qI&t=765s
