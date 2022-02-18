@@ -22,9 +22,14 @@
 
 
 ### Connect with me
-[<img align="left" alt="Seema Saharan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="CanteroMH | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ivancantero.38 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/iv%C3%A1n-cantero-mart%C3%ADn-18a8a41b7/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iv%C3%A1n-cantero-mart%C3%ADn-18a8a41b7/#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/CanteroMH#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/CanteroMH#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/ivan.cantero40#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/ivan.cantero40#gh-dark-mode-only)
 
 <br /> 
 
