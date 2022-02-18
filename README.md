@@ -1,6 +1,6 @@
 ## Hello there, my name is Iván
 
-### I'm a student ending my computer engineering degree learning as much as I can
+### I'm a computer engineer still learning as much as I can
 
 ### My Portfolio (in progress): https://portfolio-9ba79.web.app/
 
