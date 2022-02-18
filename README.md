@@ -20,25 +20,25 @@
 
 <br />
 
-
 ### Connect with me
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/iv%C3%A1n-cantero-mart%C3%ADn-18a8a41b7/#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iv%C3%A1n-cantero-mart%C3%ADn-18a8a41b7/#gh-dark-mode-only)
+[![linkedin](./img/linkedin-light.svg)](https://www.linkedin.com/in/iv%C3%A1n-cantero-mart%C3%ADn-18a8a41b7/#gh-light-mode-only)
+[![linkedin](./img/linkedin-dark.svg)](https://www.linkedin.com/in/iv%C3%A1n-cantero-mart%C3%ADn-18a8a41b7/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/CanteroMH#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/CanteroMH#gh-dark-mode-only)
+[![instagram](./img/instagram-light.svg)](https://instagram.com/ivan.cantero40#gh-light-mode-only)
+[![instagram](./img/instagram-dark.svg)](https://instagram.com/ivan.cantero40#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/ivan.cantero40#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/ivan.cantero40#gh-dark-mode-only)
+[![twitter](./img/twitter-light.svg)](https://twitter.com/CanteroMH#gh-light-mode-only)
+[![twitter](./img/twitter-dark.svg)](https://twitter.com/CanteroMH#gh-dark-mode-only)
+
 
 <br /> 
-
 
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/g2rmyjr6eqb7dsu94ga1ghp30)
 
 
+[linkedin]:https://www.linkedin.com/in/iv%C3%A1n-cantero-mart%C3%ADn-18a8a41b7/
 [instagram]: https://www.instagram.com/ivancantero.38/?hl=es
 [twitter]:https://twitter.com/CanteroMH
-[linkedin]:https://www.linkedin.com/in/iv%C3%A1n-cantero-mart%C3%ADn-18a8a41b7/
+
 
